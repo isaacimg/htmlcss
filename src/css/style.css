@@ -15,3 +15,8 @@ list-style: none;
 header ul li {
 display: inline;
 }
+header h2{
+    background-color: yellow;
+    margin: 200px auto;
+    display: flexbox;
+}
